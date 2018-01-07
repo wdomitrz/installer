@@ -20,15 +20,15 @@ msgstr ""
 
 #: data/io.elementary.installer.desktop.in:3
 msgid "Install elementary OS"
-msgstr ""
+msgstr "Zainstaluj elementary OS"
 
 #: data/io.elementary.installer.desktop.in:4
 msgid "Install the system"
-msgstr ""
+msgstr "Zainstaluj system"
 
 #: data/io.elementary.installer.desktop.in:6
 msgid "system-os-installer"
-msgstr ""
+msgstr "instalator-systemu"
 
 #~ msgid "Calculator"
 #~ msgstr "Kalkulator"
