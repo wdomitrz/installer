@@ -222,11 +222,11 @@ msgstr "Aktywny język"
 
 #: src/Views/ProgressView.vala:108
 msgid "Formating Drive"
-msgstr "Formatowanie napędu"
+msgstr "Formatowanie dysku"
 
 #: src/Views/ProgressView.vala:112
 msgid "Partitioning Drive"
-msgstr "Partycjonowanie napędu"
+msgstr "Partycjonowanie dysku"
 
 #: src/Views/ProgressView.vala:116
 msgid "Extracting Files"
