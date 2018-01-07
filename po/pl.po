@@ -107,7 +107,7 @@ msgstr ""
 
 #: src/Views/CheckView.vala:293
 msgid "Recommended:"
-msgstr "Polecane:"
+msgstr "Zalecane:"
 
 #: src/Views/CheckView.vala:297
 msgid "Your Device:"
@@ -123,7 +123,7 @@ msgstr "Pamięć:"
 
 #: src/Views/DiskView.vala:49
 msgid "Select a drive to use for installation"
-msgstr "Wybierz napęd do użycia w instalacji"
+msgstr "Wybierz dysk do użycia w instalacji"
 
 #: src/Views/DiskView.vala:54
 msgid ""
@@ -153,7 +153,7 @@ msgid ""
 "try one of the following:"
 msgstr ""
 "Instalacja nie powiodła się, więc urządzenie może nie uruchomić się "
-"ponownie. Możesz spróbować wykonać jedną z następujących czynności:"
+"ponownie. Możesz spróbować wykonać jednej z następujących czynności:"
 
 #: src/Views/ErrorView.vala:44
 msgid "• Try the installation again"
@@ -185,7 +185,7 @@ msgstr "Układ klawiatury"
 
 #: src/Views/KeyboardLayoutView.vala:36
 msgid "Type to test your layout"
-msgstr "Napisz, aby wypróbować swój układ"
+msgstr "Wprowadź znaki, aby wypróbować swój układ klawiatury"
 
 #: src/Views/KeyboardLayoutView.vala:39
 msgid "Show keyboard layout"
